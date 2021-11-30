@@ -1,0 +1,5 @@
+[Wed Nov 24 11:23:43 2021] Out of memory: Killed process 1385 (geth) total-vm:20877136kB, anon-rss:14705788kB, file-rss:0kB, shmem-rss:0kB, UID:0 pgtables:31276kB oom_score_adj:0
+[Thu Nov 25 22:09:39 2021] Out of memory: Killed process 6744 (geth) total-vm:21935676kB, anon-rss:14621244kB, file-rss:0kB, shmem-rss:0kB, UID:0 pgtables:32604kB oom_score_adj:0
+[Sat Nov 27 08:46:17 2021] Out of memory: Killed process 9929 (geth) total-vm:21476796kB, anon-rss:14571092kB, file-rss:0kB, shmem-rss:0kB, UID:0 pgtables:32888kB oom_score_adj:0
+[Sun Nov 28 19:24:28 2021] Out of memory: Killed process 13877 (geth) total-vm:21406580kB, anon-rss:14526556kB, file-rss:0kB, shmem-rss:0kB, UID:0 pgtables:31648kB oom_score_adj:0
+[Mon Nov 29 17:38:49 2021] Out of memory: Killed process 15771 (geth) total-vm:21004412kB, anon-rss:14508364kB, file-rss:0kB, shmem-rss:0kB, UID:0 pgtables:31696kB oom_score_adj:0
